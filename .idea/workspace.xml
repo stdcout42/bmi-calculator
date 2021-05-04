@@ -28,7 +28,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_6_API_23]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -55,6 +55,12 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/components" />
+      <recent name="$PROJECT_DIR$/lib/screens" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -92,22 +98,22 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="1026" y="303" width="424" height="482" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1611831488961" />
-    <state width="1353" height="127" key="GridCell.Tab.0.bottom" timestamp="1620055003915">
+    <state width="1870" height="127" key="GridCell.Tab.0.bottom" timestamp="1620114608519">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1353" height="127" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1620055003915" />
-    <state width="1353" height="127" key="GridCell.Tab.0.center" timestamp="1620055003914">
+    <state width="1870" height="127" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1620114608519" />
+    <state width="1870" height="127" key="GridCell.Tab.0.center" timestamp="1620114608518">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1353" height="127" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1620055003914" />
-    <state width="1353" height="127" key="GridCell.Tab.0.left" timestamp="1620055003914">
+    <state width="1870" height="127" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1620114608518" />
+    <state width="1870" height="127" key="GridCell.Tab.0.left" timestamp="1620114608517">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1353" height="127" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1620055003914" />
-    <state width="1353" height="127" key="GridCell.Tab.0.right" timestamp="1620055003915">
+    <state width="1870" height="127" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1620114608517" />
+    <state width="1870" height="127" key="GridCell.Tab.0.right" timestamp="1620114608518">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1353" height="127" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1620055003915" />
+    <state width="1870" height="127" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1620114608518" />
     <state x="731" y="124" width="1024" height="843" key="SettingsEditor" timestamp="1611831490225">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
